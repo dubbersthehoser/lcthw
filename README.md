@@ -1,4 +1,4 @@
-# LCTHW Study / Lession
+# LCTHW Study / Lessions
 
 This repository contains code files from my study and lessions from Learn C The Hard Way.
 
